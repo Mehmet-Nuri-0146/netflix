@@ -1,71 +1,66 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
-    
+* {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-body{
-    background-image:url(./background_image.jpg);
+body {
+  background-image: url(./background_image.jpg);
 }
 .baslik {
-    text-align: center;
-    color: white;
-  }
-  span{
-    color: red;
-  }
-  .thanks{
-    text-align: center;
-    color: white;
-  }
- 
-  #name{
-    width: 80%;
-    height: 33px;
-    margin-block: 10px;
-    color: white;
-  }
-  .age {
-    margin-top: 10px;
-  }
-  .email {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-  .{
-    margin-top: 10px;
-  }
-  .content{
-    color: white;
-  }
-  .check{
-    color: white;
-  }
-  .gender{
-    color: white;
-  }
- 
-  .hepsi{
-    display: block;
-    border: 2px solid;
-    background-color: rgb(14, 13, 13);
-   margin-left: auto;
-   margin-right: auto;
-    opacity: 0.8;
-    width: 30em;
-
-  }
-  .formum{
-    display: block;
-    border: 2px solid;
-    background-color: rgb(14, 13, 13);
-   margin-left: auto;
-   margin-right: auto;
-    opacity: 0.8;
-    width: 30em
-
-  }
-  input:hover{
-    background-color: rgb(248, 20, 20);
+  text-align: center;
+  color: white;
+}
+span {
+  color: red;
+}
+.thanks {
+  text-align: center;
+  color: white;
 }
 
-    
+#name {
+  width: 80%;
+  height: 33px;
+  margin-block: 10px;
+  color: white;
+}
+.age {
+  margin-top: 10px;
+}
+.email {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* .{
+    margin-top: 10px;
+  } */
+.content {
+  color: white;
+}
+.check {
+  color: white;
+}
+.gender {
+  color: white;
+}
+
+.hepsi {
+  display: block;
+  border: 2px solid;
+  background-color: rgb(14, 13, 13);
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.8;
+  width: 30em;
+}
+.formum {
+  display: block;
+  border: 2px solid;
+  background-color: rgb(14, 13, 13);
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.8;
+  width: 30em;
+}
+input:hover {
+  background-color: rgb(248, 20, 20);
+}
