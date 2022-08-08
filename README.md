@@ -1,3 +1,3 @@
 # netflix
 
-https://mehmet-nuri-0146.github.io/netflix/
+https://mehmet-nuri.github.io/netflix/
