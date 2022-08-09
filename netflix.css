@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&family=Lobster&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -16,7 +17,12 @@ body{
 
 }
 #title{
-  
+  font-size: 3.1rem;
+  color: white;
+  font-family: 'Bowlby One SC', cursive;
+}
+span{
+  color: #ff0000;
 }
 
 
