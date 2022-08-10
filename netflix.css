@@ -49,6 +49,24 @@ textarea{
 #dropdown, 
 #feedback{
   width: 100%;
+  padding: 12px 10px;
+  margin-top: 10px;
+}
+.inputbox{
+  margin-top: 10px;
+}
+#form-button{
+  width: 160px;
+  height: 45px;
+  background-color: #ff0000;
+  color: white;
+  border-radius: 50px;
+  border: none;
+  cursor: pointer;
+}
+.form-submit{
+  width: 160px;
+  margin: auto;
 }
 
 
