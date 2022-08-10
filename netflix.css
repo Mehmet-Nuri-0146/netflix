@@ -8,11 +8,17 @@
 body{
   background-image:url(./background_image.jpg) ;
   color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  height: 100vh;
+
 }
 
 #container{
   max-width: 1240px;
-  height: 1036px;
+  /* height: 1036px; */
   background-color: rgba(0, 0, 0, 0.3);
   margin: auto;
   margin-top: 30px;
@@ -67,8 +73,12 @@ textarea{
 .form-submit{
   width: 160px;
   margin: auto;
+  margin-top: 15px;
 }
-
+#form-button:hover{
+  background-color: white;
+  color: #ff0000;
+}
 
 
 
