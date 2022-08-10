@@ -7,6 +7,7 @@
 }
 body{
   background-image:url(./background_image.jpg) ;
+  color: white;
 }
 
 #container{
@@ -32,6 +33,24 @@ span{
 #header{
   text-align: center;
 }
+textarea{
+  resize: none;
+}
+#survey-form-container{
+  width: 500px;
+  background-color:rgba(0, 0, 0, 0.8);
+  margin: auto;
+  padding: 30px 40px;
+  /* border: 2px solid red; */
+}
+#name, 
+#age, 
+#email, 
+#dropdown, 
+#feedback{
+  width: 100%;
+}
+
 
 
 
